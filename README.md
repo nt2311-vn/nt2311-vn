@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake animation](https://github.com/nt2311-vn/nt2311-vn/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/nt2311-vn/nt2311-vn/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
