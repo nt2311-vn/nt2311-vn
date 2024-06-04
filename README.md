@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/nt2311-vn/nt2311-vn/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **nt2311-vn/nt2311-vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![snake animation](https://github.com/nt2311-vn/nt2311-vn/blob/output/github-contribution-grid-snake2.svg)
