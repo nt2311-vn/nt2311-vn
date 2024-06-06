@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 </div>
 
 ![snake animation](https://github.com/nt2311-vn/nt2311-vn/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+### Languages
+<p>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    JavaScript
+  </p>
