@@ -34,9 +34,6 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| **[neosandbox](https://github.com/nt2311-vn/neosandbox)** | Zig · Rust · TS | Tiered **WASM + microVM** sandbox hypervisor for AI agents — < 200 ms cold starts, audit-friendly. |
-| **[clawbox](https://github.com/nt2311-vn/clawbox)** | Rust · Leptos · Postgres | Sandboxed agent execution platform with DAG workflows, durable queues and live WS logs. |
-| **[neotop](https://github.com/nt2311-vn/neotop)** | Rust · Ratatui | Live TUI observer for **neosandbox microVMs** — per-VM phase, exit counters, host signals. |
 | **[onnx-inference](https://github.com/nt2311-vn/onnx-inference)** | Rust · ONNX Runtime | Production HTTP service for embeddings, classification and NER with batched ONNX inference. |
 | **[llm-gateway](https://github.com/nt2311-vn/llm-gateway)** | Go · chi · zap | Lightweight LLM gateway with rate-limiting, structured logging and provider routing. |
 | **[go-langchain-rag](https://github.com/nt2311-vn/go-langchain-rag)** | Go · langchaingo · Qdrant | End-to-end RAG: PDF ingestion, embeddings, vector search and chat over your docs. |
