@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://github.com/nt2311-vn">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00ADD8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Trung+%F0%9F%91%8B;Backend+%2F+Systems+%2F+AI-Infra+engineer;Go+%C2%B7+Rust+%C2%B7+Zig+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;Building+microVMs%2C+sandboxes+and+LLM+pipelines" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00ADD8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Trung+%F0%9F%91%8B;Backend+%2F+Systems+%2F+AI-Infra+engineer;Go+%C2%B7+Rust+%C2%B7+Zig+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;Building+microVMs%2C+sandboxes+Agents+and+LLM+pipelines" alt="Typing intro" />
   </a>
 </h1>
 
