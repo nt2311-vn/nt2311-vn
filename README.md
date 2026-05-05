@@ -1,6 +1,6 @@
 <!--
   nt2311-vn/nt2311-vn — Profile README
-  This file is rendered on https://github.com/nt2311-vn
+  Rendered on https://github.com/nt2311-vn
 -->
 
 <h1 align="center">
@@ -34,6 +34,8 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
 
 | Project | Stack | What it does |
 | --- | --- | --- |
+| **[neotop](https://github.com/nt2311-vn/neotop)** | Rust · ratatui · crossterm · rustix · nvml-wrapper | Linux TUI process / VM monitor in the htop / btop lineage — per-core CPU spectrum, GPU (AMD + NVIDIA via NVML), container-aware process groups, microVM detection. Single ~1.2 MiB binary, no `unsafe`. |
+| **[tsql](https://github.com/nt2311-vn/tsql)** | Rust · ratatui · sqlx · tokio | Keyboard-first terminal DB client for Postgres + SQLite. Vim navigation, schema browser with ERD, paginated records, SQL editor, XDG config with `${ENV_VAR}` expansion, Catppuccin Mocha. |
 | **[onnx-inference](https://github.com/nt2311-vn/onnx-inference)** | Rust · ONNX Runtime | Production HTTP service for embeddings, classification and NER with batched ONNX inference. |
 | **[llm-gateway](https://github.com/nt2311-vn/llm-gateway)** | Go · chi · zap | Lightweight LLM gateway with rate-limiting, structured logging and provider routing. |
 | **[go-langchain-rag](https://github.com/nt2311-vn/go-langchain-rag)** | Go · langchaingo · Qdrant | End-to-end RAG: PDF ingestion, embeddings, vector search and chat over your docs. |
@@ -58,6 +60,11 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
   <img src="https://img.shields.io/badge/Axum-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Leptos-%23EF3939.svg?style=for-the-badge&logo=leptos&logoColor=white" />
   <img src="https://img.shields.io/badge/Ratatui-%23F7DF1E.svg?style=for-the-badge&logo=rust&logoColor=black" />
+  <img src="https://img.shields.io/badge/Crossterm-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rustix-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlx-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVML-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/%2Fproc%20%26%20%2Fsys-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Gin-%2300ACD7.svg?style=for-the-badge&logo=gin&logoColor=white" />
   <img src="https://img.shields.io/badge/GORM-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlc-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -70,6 +77,7 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
 #### Data & Infra
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-%23DC382D.svg?style=for-the-badge&logo=qdrant&logoColor=white" />
   <img src="https://img.shields.io/badge/Keycloak-%234D4D4D.svg?style=for-the-badge&logo=keycloak&logoColor=white" />
@@ -102,6 +110,7 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/mise-%23BC4F1B.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/just-%23004088.svg?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Catppuccin-%23F5C2E7.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2C&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
@@ -129,14 +138,6 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
 
 ---
 
-### 🌊 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nt2311-vn&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ### 🐍 Contribution Snake — theme-aware
 
 <picture>
@@ -146,26 +147,7 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
 </picture>
 
 <!--
-  ─────────────────────────────────────────────────────────────────────────────
-  💡 More impressive alternatives (uncomment ONE you want to feature):
-  ─────────────────────────────────────────────────────────────────────────────
-
-  1) 3D contribution skyline (most visually striking)
-     Requires workflow: yoshi389111/github-profile-3d-contrib@main
-     <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
-
-  2) Metrics plugin (rich, fully customisable dashboard)
-     Requires workflow: lowlighter/metrics
-     <img src="./github-metrics.svg" alt="Metrics" />
-
-  3) Snk (snake but with the eaten cells exploding)
-     Action: Platane/snk@v3 with `--gif`
-     <img src="https://raw.githubusercontent.com/nt2311-vn/nt2311-vn/output/github-contribution-grid-snake.gif" />
-  ─────────────────────────────────────────────────────────────────────────────
--->
-
-<!--
-  GitHub Action to keep the snake fresh (put in `.github/workflows/snake.yml`):
+  GitHub Action to keep the snake fresh (`.github/workflows/snake.yml`):
 
   name: generate snake
   on:
