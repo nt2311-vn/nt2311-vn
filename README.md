@@ -123,8 +123,8 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
 
 <p align="center">
   <a href="https://github.com/nt2311-vn">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nt2311-vn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nt2311-vn&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.hackclub.dev/api?username=nt2311-vn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+    <img height="165" alt="Top languages" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=nt2311-vn&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
   </a>
 </p>
 
