@@ -66,7 +66,7 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
   <img src="https://img.shields.io/badge/sqlx-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/NVML-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/%2Fproc%20%26%20%2Fsys-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-%2300ACD7.svg?style=for-the-badge&logo=gin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-%2300ACD7.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/GORM-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlc-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -127,8 +127,8 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
 
 <p align="center">
   <a href="https://github.com/nt2311-vn">
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.hackclub.dev/api?username=nt2311-vn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-    <img height="165" alt="Top languages" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=nt2311-vn&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nt2311-vn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nt2311-vn&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
   </a>
 </p>
 
