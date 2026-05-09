@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://github.com/nt2311-vn">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00ADD8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Toan+%F0%9F%91%8B;Backend+%2F+Systems+%2F+AI-Infra+engineer;Go+%C2%B7+Rust+%C2%B7+Zig+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;Building+microVMs%2C+sandboxes%2C+Agents+and+LLM+pipelines" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00ADD8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Toan+%F0%9F%91%8B;Backend+%2F+Systems+%2F+AI-Infra+engineer;Rust+%C2%B7+Zig+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+Python;Building+microVMs%2C+sandboxes%2C+Agents+and+LLM+pipelines" alt="Typing intro" />
   </a>
 </h1>
 
@@ -35,7 +35,9 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
 | Project | Stack | What it does |
 | --- | --- | --- |
 | **[neotop](https://github.com/nt2311-vn/neotop)** | Rust · ratatui · crossterm · rustix · nvml-wrapper | Linux TUI process / VM monitor in the htop / btop lineage — per-core CPU spectrum, GPU (AMD + NVIDIA via NVML), container-aware process groups, microVM detection. Single ~1.2 MiB binary, no `unsafe`. |
-| **[tsql](https://github.com/nt2311-vn/tsql)** | Rust · ratatui · sqlx · tokio | Keyboard-first terminal DB client for Postgres + SQLite. Vim navigation, schema browser with ERD, paginated records, SQL editor, XDG config with `${ENV_VAR}` expansion, Catppuccin Mocha. |
+| **[tsqlx](https://github.com/nt2311-vn/tsqlx)** | Rust · ratatui · sqlx · tokio | Keyboard-first terminal DB client for Postgres + SQLite. Vim navigation, schema browser with ERD, paginated records, SQL editor, XDG config with `${ENV_VAR}` expansion, Catppuccin Mocha. |
+| **[neosandbox](https://github.com/nt2311-vn/neosandbox)** | Zig · gRPC · Linux namespaces | Lightweight microVM / sandbox runtime for agent code execution — engine, controld supervisor, protobuf control plane. |
+| **[clawbox](https://github.com/nt2311-vn/clawbox)** | Rust · multi-crate workspace · k8s · Helm | Containerized backend platform with migrations, compose + k8s deploys, justfile workflow. |
 | **[onnx-inference](https://github.com/nt2311-vn/onnx-inference)** | Rust · ONNX Runtime | Production HTTP service for embeddings, classification and NER with batched ONNX inference. |
 | **[llm-gateway](https://github.com/nt2311-vn/llm-gateway)** | Go · chi · zap | Lightweight LLM gateway with rate-limiting, structured logging and provider routing. |
 | **[go-langchain-rag](https://github.com/nt2311-vn/go-langchain-rag)** | Go · langchaingo · Qdrant | End-to-end RAG: PDF ingestion, embeddings, vector search and chat over your docs. |
@@ -50,7 +52,6 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
@@ -86,6 +87,9 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-%23244c5a.svg?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Protobuf-%23A4373A.svg?style=for-the-badge&logo=protobuf&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -110,7 +114,7 @@ that keeps them running. I’m currently learning **Zig** and going deeper on
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/mise-%23BC4F1B.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/just-%23004088.svg?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Catppuccin-%23F5C2E7.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2C&logoColor=white" />
+  <img src="https://img.shields.io/badge/Catppuccin-F5C2E7?style=for-the-badge&labelColor=1E1E2E&color=F5C2E7" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
